@@ -56,4 +56,4 @@ Lei followed tutorial on youtube: https://www.youtube.com/watch?v=SqVfCyfCJqw&t=
 
 Follow the above steps, **Java 8 cannot be used. User higher version since a record class is created. Java 8 does not support record class.**
 
-Follow the above steps, **IntelliJ community version cannot be user. Use IntelliJ ultimate version. The ```@PostMapping`` requires the ultimate version of IntelliJ.**
+Follow the above steps, **IntelliJ community version cannot be user. Use IntelliJ ultimate version. The ```@PostMapping``` requires the ultimate version of IntelliJ.**
